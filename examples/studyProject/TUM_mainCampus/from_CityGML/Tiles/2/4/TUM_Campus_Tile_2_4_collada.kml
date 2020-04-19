@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.0.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>TUM_Campus_Tile_2_4_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_DEBY_LOD2_4959316">
+      <name>DEBY_LOD2_4959316</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5703199</longitude>
+          <latitude>48.1502627</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6819778</heading>
+        </Orientation>
+        <Link>
+          <href>3098/DEBY_LOD2_4959316.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959326">
+      <name>DEBY_LOD2_4959326</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5696414</longitude>
+          <latitude>48.1504379</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6897009</heading>
+        </Orientation>
+        <Link>
+          <href>4376/DEBY_LOD2_4959326.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959315">
+      <name>DEBY_LOD2_4959315</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5702865</longitude>
+          <latitude>48.1502111</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.689825</heading>
+        </Orientation>
+        <Link>
+          <href>1926/DEBY_LOD2_4959315.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959325">
+      <name>DEBY_LOD2_4959325</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5690102</longitude>
+          <latitude>48.1509064</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6752431</heading>
+        </Orientation>
+        <Link>
+          <href>3593/DEBY_LOD2_4959325.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959317">
+      <name>DEBY_LOD2_4959317</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5704554</longitude>
+          <latitude>48.1500039</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6874045</heading>
+        </Orientation>
+        <Link>
+          <href>4338/DEBY_LOD2_4959317.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959314">
+      <name>DEBY_LOD2_4959314</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5702459</longitude>
+          <latitude>48.1502224</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6784876</heading>
+        </Orientation>
+        <Link>
+          <href>2183/DEBY_LOD2_4959314.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>

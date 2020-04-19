@@ -1,0 +1,223 @@
+{
+    "asset": {
+        "generator": "COLLADA2GLTF",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0,
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "Z_UP"
+        },
+        {
+            "mesh": 0
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 2
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 4,
+                        "POSITION": 5
+                    },
+                    "indices": 3,
+                    "mode": 4,
+                    "material": 1
+                }
+            ],
+            "name": "geometry0"
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 75,
+            "max": [
+                40
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 41,
+            "max": [
+                0.9208096265792848,
+                0.923875629901886,
+                0.00001739999970595818
+            ],
+            "min": [
+                -0.9170464873313904,
+                -0.9187602400779724,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 492,
+            "componentType": 5126,
+            "count": 41,
+            "max": [
+                9.789999961853028,
+                0.9899999499320984,
+                22.59200096130371
+            ],
+            "min": [
+                -7.200000286102295,
+                -15.34999942779541,
+                0.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 150,
+            "componentType": 5123,
+            "count": 21,
+            "max": [
+                10
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 984,
+            "componentType": 5126,
+            "count": 11,
+            "max": [
+                0.23241399228572849,
+                0.5406637787818909,
+                0.8107895851135254
+            ],
+            "min": [
+                -0.23218519985675813,
+                -0.5400186777114868,
+                0.8084964156150818
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 1116,
+            "componentType": 5126,
+            "count": 11,
+            "max": [
+                9.789999961853028,
+                0.9899999499320984,
+                22.59200096130371
+            ],
+            "min": [
+                -7.200000286102295,
+                -15.34999942779541,
+                18.185001373291017
+            ],
+            "type": "VEC3"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true,
+            "name": "default_ai_0.2_sh_0.2_tr_0.0_dc_r_1.0_g_1.0_b_1.0_sc_r_1.0_g_1.0_b_1.0_ec_r_0.0_g_0.0_b_0_eff"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.20000000298023225,
+                    0.20000000298023225,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "doubleSided": true,
+            "name": "default_ai_0.2_sh_0.2_tr_0.0_dc_r_1.0_g_0.2_b_0.2_sc_r_1.0_g_1.0_b_1.0_ec_r_0.0_g_0.0_b_0_eff"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 1248,
+            "byteLength": 192,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 1248,
+            "byteStride": 12,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1440,
+            "uri": "data:application/octet-stream;base64,mUXJPtJjaz8AAAAAmUXJPtJjaz8AAAAAmUXJPtJjaz8AAAAAmUXJPtFjaz8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/XfDDPh2DbD8AAAAAXfDDPh2DbD8AAAAAXfDDPh2DbD8AAAAAXfDDPhuDbD8AAAAAViXKvt8za78AAAAAViXKvt8za78AAAAAViXKvt8za78AAAAAViXKvt8za78AAAAABbprP3Swx76zWRo2BLprP3Swx7439pE3BbprP3Swx7439hE3LrprP7Gvx7667Yy2BbprP3Swx7667Yy2srlrP/2xx74AAAAAg8Jqv8UxzD4AAAAAj8Nqv/UszD4AAAAAj8Nqv/UszD4AAAAAg8Jqv8UxzD4AAAAAd8Fqv5Q2zD4AAAAAd8Fqv5Q2zD4AAAAA2qLKvt0Ya78AAAAA2qLKvt0Ya78AAAAA2qLKvt0Ya78AAAAA3aLKvt0Ya78AAAAAZoQLPzekVj8AAAAAaIQLPzekVj8AAAAAZoQLPzekVj8AAAAAZoQLPzekVj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZFBpHAZQTMzg8DiepFBpHAZQTMzg8AAAAAAXI+iQJmZdcEAAAAAheuZwJqZMcEAAAAAexTuQLFyHMEAAAAA16McQSlch8AAAAAApHAZQTMzg8AAAAAAAAAAAAAAAAAAAAAAwvUYwKNwfT8AAAAAGy+ZwAmskMAAAAAAZ2bmwLgeIcEAAAAAwvUYwKNwfT8AAAAAwvUYwKNwfT/NzJFBAAAAAAAAAACamZFBAAAAAAAAAAAAAAAAXI+iQJmZdcEAAAAAXI+iQJmZdcFpkZFBheuZwJqZMcFQjZFBheuZwJqZMcEAAAAA16McQSlch8BGtpFBexTuQLFyHMFrvLRBXI+iQJmZdcFpkZFBXI+iQJmZdcEAAAAAexTuQLFyHMEAAAAA16McQSlch8AAAAAAGy+ZwAmskMAAAAAAZ2bmwLgeIcEAAAAAZ2bmwLgeIcFpkZFBGy+ZwAmskMBrvLRBwvUYwKNwfT/NzJFBwvUYwKNwfT8AAAAAheuZwJqZMcEAAAAAheuZwJqZMcFQjZFBZ2bmwLgeIcFpkZFBZ2bmwLgeIcEAAAAApHAZQTMzg8AAAAAApHAZQTMzg8DiepFB16McQSlch8BGtpFB16McQSlch8AAAAAAPbZtvuU8Cr8yHE8/255tvqo+Cr+0HE8/P7RtvvI9Cr+mG08/9cFtvgE8Cr/zG08/QLptvs46Cr9OHU8/t09tPkT/CT+fTE8/NsRtPptACj+4GE8/ucFtPjZACj8oGU8/M75sPqWpCT/oj08/od1sPkG+CT//f08/7/1tPvFoCj+f+U4/Gy+ZwAmskMBrvLRBZ2bmwLgeIcFpkZFBheuZwJqZMcFQjZFBXI+iQJmZdcFpkZFBexTuQLFyHMFrvLRBwvUYwKNwfT/NzJFBGy+ZwAmskMBrvLRBexTuQLFyHMFrvLRB16McQSlch8BGtpFBpHAZQTMzg8DiepFBAAAAAAAAAACamZFBAAABAAIAAAACAAMABAAFAAYABgAFAAcABwAFAAgACAAFAAkACQAFAAoACgAFAAsACwAFAAwADQAOAA8ADQAPABAAEQASABMAEQATABQAFQAWABcAFQAXABgAFQAYABkAFQAZABoAGwAcAB0AGwAdAB4AGwAeAB8AGwAfACAAIQAiACMAIQAjACQAJQAmACcAJQAnACgAAAABAAIAAAACAAMAAAADAAQABQAGAAcABQAHAAgABQAIAAkABQAJAAoA"
+        }
+    ]
+}

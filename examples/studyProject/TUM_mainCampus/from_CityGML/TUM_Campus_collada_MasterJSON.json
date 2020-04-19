@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"layername": "TUM_Campus",
+	"fileextension": ".kml",
+	"displayform": "collada",
+	"minLodPixels": 120,
+	"maxLodPixels": -1,
+	"colnum": 6,
+	"rownum": 4,
+	"bbox":{ 
+		"xmin": 11.563013688087276,
+		"xmax": 11.572011066444269,
+		"ymin": 48.14768637675547,
+		"ymax": 48.152148597048594
+	}
+}

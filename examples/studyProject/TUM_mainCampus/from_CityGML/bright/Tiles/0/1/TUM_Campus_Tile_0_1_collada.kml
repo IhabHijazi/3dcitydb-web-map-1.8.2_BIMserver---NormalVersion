@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.0.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>TUM_Campus_Tile_0_1_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_DEBY_LOD2_4907205">
+      <name>DEBY_LOD2_4907205</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5651993</longitude>
+          <latitude>48.1487735</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6791124</heading>
+        </Orientation>
+        <Link>
+          <href>967/DEBY_LOD2_4907205.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_60099">
+      <name>DEBY_LOD2_60099</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5651596</longitude>
+          <latitude>48.14868</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6711485</heading>
+        </Orientation>
+        <Link>
+          <href>1469/DEBY_LOD2_60099.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4907207">
+      <name>DEBY_LOD2_4907207</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5652484</longitude>
+          <latitude>48.1485714</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6698051</heading>
+        </Orientation>
+        <Link>
+          <href>1624/DEBY_LOD2_4907207.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4907209">
+      <name>DEBY_LOD2_4907209</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5648071</longitude>
+          <latitude>48.1487364</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6871819</heading>
+        </Orientation>
+        <Link>
+          <href>1768/DEBY_LOD2_4907209.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_8568392">
+      <name>DEBY_LOD2_8568392</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5651993</longitude>
+          <latitude>48.1487735</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6791036</heading>
+        </Orientation>
+        <Link>
+          <href>1945/DEBY_LOD2_8568392.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4907206">
+      <name>DEBY_LOD2_4907206</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5655654</longitude>
+          <latitude>48.1487167</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6680501</heading>
+        </Orientation>
+        <Link>
+          <href>2836/DEBY_LOD2_4907206.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4907208">
+      <name>DEBY_LOD2_4907208</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5651564</longitude>
+          <latitude>48.1485971</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6707191</heading>
+        </Orientation>
+        <Link>
+          <href>2884/DEBY_LOD2_4907208.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>

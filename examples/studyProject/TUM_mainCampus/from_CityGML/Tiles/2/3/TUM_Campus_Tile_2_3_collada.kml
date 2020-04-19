@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.0.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>TUM_Campus_Tile_2_3_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_DEBY_LOD2_4959461">
+      <name>DEBY_LOD2_4959461</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5687799</longitude>
+          <latitude>48.1509022</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6732585</heading>
+        </Orientation>
+        <Link>
+          <href>3677/DEBY_LOD2_4959461.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959460">
+      <name>DEBY_LOD2_4959460</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5676679</longitude>
+          <latitude>48.1500605</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6888054</heading>
+        </Orientation>
+        <Link>
+          <href>4455/DEBY_LOD2_4959460.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_DEBY_LOD2_4959462">
+      <name>DEBY_LOD2_4959462</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>11.5686776</longitude>
+          <latitude>48.1501398</latitude>
+          <altitude>0.0</altitude>
+        </Location>
+        <Orientation>
+          <heading>359.6886766</heading>
+        </Orientation>
+        <Link>
+          <href>3389/DEBY_LOD2_4959462.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>
